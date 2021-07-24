@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class ClientComponent extends Component {
     render() {
         return (
-            <div style={{backgroundColor:'hsl(210deg 17% 98%)', padding:'100px 0'}}>
+            <div style={{backgroundColor:'hsl(210deg 17% 98%)', padding:'100px 0'}} id='client'>
             <div className='container' style={{textAlign:'center'}}>
                 <div classname="feature__title" style={{textAlign: 'center',margin:'100px 0'}}>
                     <div classname="feature__text">

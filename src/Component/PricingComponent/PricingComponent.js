@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class PricingComponent extends Component {
     render() {
         return (
-            <div style={{backgroundColor:'hsl(210deg 17% 98%)', padding:'100px 0'}}>
+            <div style={{backgroundColor:'hsl(210deg 17% 98%)', padding:'100px 0'}} id='pricing'>
             <div className='container'>
                 <div classname="feature__title" style={{textAlign: 'center',marginBottom:'100px'}}>
                     <div classname="feature__text">

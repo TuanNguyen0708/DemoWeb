@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class ContactComponent extends Component {
     render() {
         return (
-            <div style={{ backgroundColor:'hsl(210deg 17% 98%)'}}>
+            <div style={{ backgroundColor:'hsl(210deg 17% 98%)'}} id='contact'>
             <div className='container' style={{display:'flex', padding:'100px 0'}}>
                  <div style={{width:'20%'}}>
                      <h5 style={{marginBottom:'20px'}}>HELP CENTER</h5>

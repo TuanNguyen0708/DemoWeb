@@ -11,13 +11,13 @@ export default class HeaderComponent extends Component {
                     </button>
                     <div className="collapse navbar-collapse" id="navbarNavAltMarkup">
                         <div className="navbar-nav">
-                            <a className="nav-link active" href="#">HOME</a>
-                            <a className="nav-link" href="#">FEATURES</a>
-                            <a className="nav-link" href="#">SERVICES</a>
-                            <a className="nav-link" href="#">CLIENT</a>
-                            <a className="nav-link" href="#">TEAM</a>
-                            <a className="nav-link" href="#">PRICING</a>
-                            <a className="nav-link" href="#">CONTACT</a>
+                            <a className="nav-link active" href="#slider">HOME</a>
+                            <a className="nav-link" href="#feature">FEATURES</a>
+                            <a className="nav-link" href="#service">SERVICES</a>
+                            <a className="nav-link" href="#client">CLIENT</a>
+                            <a className="nav-link" href="#team">TEAM</a>
+                            <a className="nav-link" href="#pricing">PRICING</a>
+                            <a className="nav-link" href="#contact">CONTACT</a>
                         </div>
                     </div>
                 </nav>

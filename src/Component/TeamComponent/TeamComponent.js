@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class TeamComponent extends Component {
     render() {
         return (
-            <div className='container' style={{padding:'100px 0'}}>
+            <div className='container' style={{padding:'100px 0'}} id='team'>
                 <div classname="feature__title" style={{textAlign: 'center', marginBottom:'100px'}}>
                     <div classname="feature__text">
                         <span style={{fontSize:'2rem'}}>Our </span>

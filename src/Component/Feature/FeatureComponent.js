@@ -3,7 +3,7 @@ import React, { Component } from 'react'
 export default class FeatureComponent extends Component {
     render() {
         return (
-            <div style={{padding:'100px 0',backgroundColor:'hsl(210deg 17% 98%)'}}>
+            <div style={{padding:'100px 0',backgroundColor:'hsl(210deg 17% 98%)'}} id='feature'>
             <div className="container" style={{textAlign: 'center'}}>
                 <div classname="feature__title" style={{textAlign: 'center',marginBottom:'100px'}}>
                     <div classname="feature__text">
