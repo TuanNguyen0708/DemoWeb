@@ -41,7 +41,6 @@ export default class FeatureComponent extends Component {
                 </div>
             </div>
             </div>
-
         )
     }
 }
